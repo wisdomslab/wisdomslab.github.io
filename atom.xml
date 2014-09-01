@@ -4,7 +4,7 @@
   <title><![CDATA[lab-jee]]></title>
   <link href="http://wisdomslab.github.io/atom.xml" rel="self"/>
   <link href="http://wisdomslab.github.io/"/>
-  <updated>2014-09-02T01:38:25+08:00</updated>
+  <updated>2014-09-02T02:17:07+08:00</updated>
   <id>http://wisdomslab.github.io/</id>
   <author>
     <name><![CDATA[cayman]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[iOS UI设计尺寸]]></title>
+    <title type="html"><![CDATA[Ios Uishe Ji Chi Cun]]></title>
     <link href="http://wisdomslab.github.io/blog/2014/09/02/ios-uishe-ji-chi-cun/"/>
-    <updated>2014-09-02T00:18:24+08:00</updated>
+    <updated>2014-09-02T00:00:00+08:00</updated>
     <id>http://wisdomslab.github.io/blog/2014/09/02/ios-uishe-ji-chi-cun</id>
     <content type="html"><![CDATA[<h2>iOS UI设计规范</h2>
 
@@ -44,6 +44,12 @@ iPhone 4    高:960px   宽:640px</p>
 <h6>界面最小点击元素</h6>
 
 <p>所有能点击的区域不能小于44px</p>
+
+<p><img src="http://lab.jee.io/images/img/small-touch-point.png" alt="图1" /></p>
+
+<h6>切图命名方式</h6>
+
+<p><img src="http://lab.jee.io/images/img/name.png" alt="图2" /></p>
 ]]></content>
   </entry>
   
