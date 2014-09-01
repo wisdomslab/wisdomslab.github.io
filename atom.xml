@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[lab-jee]]></title>
+  <link href="http://wisdomslab.github.io/atom.xml" rel="self"/>
+  <link href="http://wisdomslab.github.io/"/>
+  <updated>2014-09-02T01:38:25+08:00</updated>
+  <id>http://wisdomslab.github.io/</id>
+  <author>
+    <name><![CDATA[cayman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[iOS UI设计尺寸]]></title>
+    <link href="http://wisdomslab.github.io/blog/2014/09/02/ios-uishe-ji-chi-cun/"/>
+    <updated>2014-09-02T00:18:24+08:00</updated>
+    <id>http://wisdomslab.github.io/blog/2014/09/02/ios-uishe-ji-chi-cun</id>
+    <content type="html"><![CDATA[<h2>iOS UI设计规范</h2>
+
+<h6>iPhone界面尺寸</h6>
+
+<p>iPhone 5  高:1136px 宽:640px<br/>
+iPhone 4    高:960px   宽:640px</p>
+
+<h6>App icon</h6>
+
+<p>高:1024px  宽:1024px</p>
+
+<h6>状态栏</h6>
+
+<p>高:20px    宽:640px</p>
+
+<h6>导航栏</h6>
+
+<p>高:88px    宽:640px</p>
+
+<h6>菜单栏</h6>
+
+<p>高:98px    宽:640px</p>
+
+<h6>界面最小点击元素</h6>
+
+<p>所有能点击的区域不能小于44px</p>
+]]></content>
+  </entry>
+  
+</feed>
