@@ -4,7 +4,7 @@
   <title><![CDATA[lab-jee]]></title>
   <link href="http://wisdomslab.github.io/atom.xml" rel="self"/>
   <link href="http://wisdomslab.github.io/"/>
-  <updated>2014-09-02T02:18:39+08:00</updated>
+  <updated>2014-09-03T13:55:31+08:00</updated>
   <id>http://wisdomslab.github.io/</id>
   <author>
     <name><![CDATA[cayman]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Ios Uishe Ji Chi Cun]]></title>
-    <link href="http://wisdomslab.github.io/blog/2014/09/02/ios-uishe-ji-chi-cun/"/>
-    <updated>2014-09-02T00:00:00+08:00</updated>
-    <id>http://wisdomslab.github.io/blog/2014/09/02/ios-uishe-ji-chi-cun</id>
-    <content type="html"><![CDATA[<h2>iOS UI设计规范</h2>
-
-<h6>iPhone界面尺寸</h6>
+    <title type="html"><![CDATA[iOS UI设计规范]]></title>
+    <link href="http://wisdomslab.github.io/blog/2014/09/03/ios-uishe-ji-gui-fan/"/>
+    <updated>2014-09-03T13:09:11+08:00</updated>
+    <id>http://wisdomslab.github.io/blog/2014/09/03/ios-uishe-ji-gui-fan</id>
+    <content type="html"><![CDATA[<h6>iPhone界面尺寸</h6>
 
 <p>iPhone 5  高:1136px 宽:640px<br/>
 iPhone 4    高:960px   宽:640px</p>
